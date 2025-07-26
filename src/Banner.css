@@ -3,6 +3,7 @@
     object-fit: contain;
     height: 448px;
     margin-bottom: 2px;
+    min-width: 100vw;
 }
 .banner_contents{
     margin-left: 30px;
